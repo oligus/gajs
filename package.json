@@ -1,0 +1,11 @@
+{
+  "name": "gajs",
+  "version": "1.0.0",
+  "description": "Genetic algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oli Gustafsson",
+  "license": "GPL-2.0"
+}
